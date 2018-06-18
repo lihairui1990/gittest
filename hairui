@@ -11,6 +11,7 @@ master---the final one
 
 dev test
 dkfjdkfjk
+<<<<<<< HEAD
 >>>>>>> dev
 
 
@@ -23,3 +24,12 @@ mmm
 master
 
 #############
+=======
+
+
+
+test graph
+>>>>>>> dev
+
+
+comolete
