@@ -1,5 +1,5 @@
 # hello.py
 # author: michael
-print('hello')
+print('hello2')
 exit(1)
 
